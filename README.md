@@ -65,9 +65,38 @@ The neural network model was evaluated on a test set of 50 samples with the foll
 
 > 📌 The model performs slightly better on predicting disease cases than non-disease ones, making it useful in medical screening scenarios.
 
-### 🖼️ Screenshot
+## Installation and Usage
+###🔧 Requirements
+Make sure you have the following installed:
+- Python 3.8 or 3.9 or 3.10
+- `pip` (Python package manager)
+- Basic web browser (for the HTML form)
+
+### Creating and activating a virtual environment
+- `python -3.10 -m venv myenv` for creating the virtual environment
+- `myenv/Scripts/activate` for activating the virtual environment
+
+### 📦 Install Dependencies
+`pip install -r requirements.txt`
+
+### 🚀 Running the Project
+- `python app.py`
+- `Running on http://127.0.0.1:5000` Open that link in your browser to see your app in action.
+
+ ### 🖼️ Screenshot
  ![Form Interface](images/screenshot1.png)
 
  
  ![Form Interface](images/screenshot2.png)
 
+
+##
+
+### 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
+
+### 🙋‍♂️ Contact
+For questions or feedback, feel free to reach out via [goyalayush1203@gamil.com] or open an issue in the repository.
+
+---
+Feel free to explore, modify, and enhance the project. Happy coding! 🚀
