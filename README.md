@@ -65,5 +65,7 @@ The neural network model was evaluated on a test set of 50 samples with the foll
 
 > 📌 The model performs slightly better on predicting disease cases than non-disease ones, making it useful in medical screening scenarios.
 
-
+### 🖼️ Screenshot
+ ![Form Interface](images/Screenshot 2025-06-10 152657.png)
+ ![Form Interface](images/Screenshot 2025-06-10 152722.png)
 
