@@ -66,7 +66,7 @@ The neural network model was evaluated on a test set of 50 samples with the foll
 > 📌 The model performs slightly better on predicting disease cases than non-disease ones, making it useful in medical screening scenarios.
 
 ## Installation and Usage
-###🔧 Requirements
+### 🔧 Requirements
 Make sure you have the following installed:
 - Python 3.8 or 3.9 or 3.10
 - `pip` (Python package manager)
