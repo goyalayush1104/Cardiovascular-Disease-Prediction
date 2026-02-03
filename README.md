@@ -58,7 +58,7 @@ The neural network model was evaluated on a test set of 50 samples with the foll
 | 0 (No Disease) | 0.87 | 0.95 | 0.91 | 21 |
 | 1 (Disease)    | 0.96 | 0.90 | 0.93 | 29 |
 
-- **Accuracy**: 0.92  
+- **Accuracy**: 0.957  
 - **Macro Avg**: Precision = 0.92, Recall = 0.92, F1 = 0.92  
 - **Weighted Avg**: Precision = 0.92, Recall = 0.92, F1 = 0.92
 
