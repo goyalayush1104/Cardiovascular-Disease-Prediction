@@ -39,8 +39,7 @@ The neural network model was evaluated on a test set of 50 samples with the foll
 
 ### ✅ Accuracy Report
 
-- Correct Predictions: **46 / 50**
-- **Accuracy**: `92.0%`
+- **Accuracy**: `95.7%`
 
 ### 🧮 Confusion Matrix
 
@@ -68,7 +67,7 @@ The neural network model was evaluated on a test set of 50 samples with the foll
 ## Installation and Usage
 ### 🔧 Requirements
 Make sure you have the following installed:
-- Python 3.8 or 3.9 or 3.10
+- Python 3.8, 3.9 or 3.10
 - `pip` (Python package manager)
 - Basic web browser (for the HTML form)
 
