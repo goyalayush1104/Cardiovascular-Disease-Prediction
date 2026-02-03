@@ -6,7 +6,7 @@ This project predicts the risk of cardiovascular disease using 12 health-related
 - 🌐 Frontend HTML form to input health data (age, blood pressure, cholesterol, etc.)
 - 🔙 Backend model trained on data sourced from [Mendley Data](https://data.mendeley.com/datasets/dzz48mvjht/1).
 - 📈 Binary classification (Low Risk vs High Risk).
-- 💾 Trained model saved as `mymodel.h5`.
+- 💾 Trained model saved as `mymodel.keras`.
 
 ### List of 12 health metrics
 - Age
